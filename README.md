@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning **ISO/IEC 27001:2025 Lead Auditor** || **Google Professional Security Engineer** || **DevSecOps** || **CCNA Level 3**
 - 👯 I'm looking to collaborate on **Cybersecurity** || **SOC & Threat Detection** || **Digital Forensics** || **Security Awareness & Training**
 - 💬 Ask me about **Incident Response** || **Vulnerability Assessment** || **Ethical Hacking** || **Network Security** || **Identity & Access Management** || **Phishing Prevention**
-- ⚡ Fun fact: I implemented **100+ security protocols** and improved confidentiality measures by **52%** 🔐
+- ⚡ Fun fact: I'm still collecting certifications faster than I'm collecting coffee mugs ☕🎓
 
 ---
 
